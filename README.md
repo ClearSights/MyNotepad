@@ -1,2 +1,2 @@
 # MyNotepad
-A GUI Programming practice.
+A simple Notepad written in Java. 
